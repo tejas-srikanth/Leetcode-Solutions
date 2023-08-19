@@ -14,18 +14,16 @@ public:
         int w = maze.size();
         int l = maze[0].size();
 
-        vector<vector<bool>> v(w, vector<bool>(l, false));
         queue<pair<int, int>> q;
         vector<pair<int, int>> dvecs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     
         q.push({entrance[0], entrance[1]});
-        v[entrance[0]][entrance[1]] = true;
+        maze[entrance[0]][entrance[1]] = '+';
         int p = 0;
         while (!q.empty()){
             int s = q.size();
             for (int i=0; i<s; ++i){
                 pair<int, int> x = q.front();
-                cout << x.first << " " << x.second << endl;
                 q.pop();
                 if (p && isEdge(x, w, l)){
                     return p;
@@ -35,9 +33,9 @@ public:
                         int newY = dv.second + x.second;
                         pair<int, int> newP = {newX, newY};
                         
-                        if (isInBounds(newP, w, l) && !v[newX][newY] && maze[newX][newY] == '.'){
+                        if (isInBounds(newP, w, l) && maze[newX][newY] == '.'){
                             cout << "newP: " << newP.first << " " << newP.second << endl;
-                            v[newP.first][newP.second] = true;
+                            maze[newP.first][newP.second] = '+';
                             q.push(newP);
                         }
                     }
