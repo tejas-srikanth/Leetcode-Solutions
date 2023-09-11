@@ -1,31 +1,19 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        vector<int> precomp;
+        int minSum = 0;
+        int max = -1;
         int rolling = 0;
-        if (nums.size() == 1){
-            return nums[0];
-        }
-        for (int x: nums){
-            rolling += x;
-            precomp.push_back(rolling);
-        }
-        int mn = precomp[0];
-        int mx = mn;
-        int g;
-        for (int i=1; i<precomp.size(); ++i){
-            g = precomp[i];
-            if (g < mn){
-                if (max(g - mn, g) > mx){
-                    mx = max(g - mn, g);
-                }
-                mn = g;
-            } else {
-                if (max(g - mn, g) > mx){
-                    mx = max(g - mn, g);
-                }
+        for (int i=0; i<nums.size(); ++i){
+            rolling += nums[i];
+            if (rolling - minSum > max || i == 0){
+                max = rolling - minSum;
+            }
+
+            if (rolling < minSum){
+                minSum = rolling;
             }
         }
-        return mx;
+        return max;
     }
 };
