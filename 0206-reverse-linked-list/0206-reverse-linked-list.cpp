@@ -12,22 +12,15 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         if (!head){
-            return head;
-        } else if (!head->next){
-            return head;
+            return nullptr;
         }
-
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        prev->next = nullptr;
-        ListNode* next;
-        while (curr){
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+        if (!head->next){
+            return head;
+        } else {
+            ListNode* l = reverseList(head->next);
+            head->next->next = head;
+            head->next = nullptr;
+            return l;
         }
-        cout << "Heloooo" << endl;
-        return prev;
     }
 };
