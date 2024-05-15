@@ -1,17 +1,19 @@
 class Solution {
 public:
+    bool isCorresponding(char a, char b){
+        return (a == '{' && b == '}') || (a == '[' && b == ']') || (a == '(' && b == ')');
+    }
     bool isValid(string s) {
-        vector<int> theStack;
-        map<char, char> m = {{')', '('}, {']', '['}, {'}', '{'}};
+        stack<char> theStack;
         for (char c: s){
-            if (m.find(c) != m.end()){
-                if (theStack.empty() || theStack.back() != m[c]){
+            if (c == ']' || c == ')' || c == '}'){
+                if (theStack.empty() || !isCorresponding(theStack.top(), c)){
                     return false;
                 } else {
-                    theStack.pop_back();
+                    theStack.pop();
                 }
             } else {
-                theStack.push_back(c);
+                theStack.push(c);
             }
         }
         return theStack.empty();
