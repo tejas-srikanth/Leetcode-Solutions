@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
