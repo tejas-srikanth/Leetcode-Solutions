@@ -23,8 +23,6 @@ public:
 
     }
     vector<string> generateParenthesis(int n) {
-        string s(5, '(');
-        cout << s << endl;
         return generateParenthesisHelper(n, n);
     }
 };
