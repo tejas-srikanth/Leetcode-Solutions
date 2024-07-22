@@ -1,44 +1,44 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        stack<string> theStack;
+        stack<int> theStack;
         for (string token: tokens){
             if (token == "+"){
-                int i1 = stoi(theStack.top());
+                int i1 = theStack.top();
                 theStack.pop();
-                int i2 = stoi(theStack.top());
+                int i2 = theStack.top();
                 theStack.pop();
-                theStack.push(to_string(i1 + i2));
+                theStack.push(i1 + i2);
             }
 
             else if (token == "-"){
-                int i1 = stoi(theStack.top());
+                int i1 = theStack.top();
                 theStack.pop();
-                int i2 = stoi(theStack.top());
+                int i2 = theStack.top();
                 theStack.pop();
-                theStack.push(to_string(i2 - i1));
+                theStack.push(i2 - i1);
             }
 
             else if (token == "/") {
-                int i1 = stoi(theStack.top());
+                int i1 = theStack.top();
                 theStack.pop();
-                int i2 = stoi(theStack.top());
+                int i2 = theStack.top();
                 theStack.pop();
-                theStack.push(to_string(i2 / i1));
+                theStack.push(i2 / i1);
             }
 
             else if (token == "*") {
-                int i1 = stoi(theStack.top());
+                int i1 = theStack.top();
                 theStack.pop();
-                int i2 = stoi(theStack.top());
+                int i2 = theStack.top();
                 theStack.pop();
-                theStack.push(to_string(i1 * i2));
+                theStack.push(i1 * i2);
             }
 
             else {
-                theStack.push(token);
+                theStack.push(stoi(token));
             }
         }
-        return stoi(theStack.top());
+        return theStack.top();
     }
 };
