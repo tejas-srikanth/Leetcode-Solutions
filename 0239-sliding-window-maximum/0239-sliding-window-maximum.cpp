@@ -1,15 +1,6 @@
 class Solution {
 public:
-    deque<int> pd(deque<int>& dq){
-        deque<int> odq;
-        while (!dq.empty()){
-            odq.push_back(dq.front());
-            cout << dq.front() << " ";
-            dq.pop_front();
-        }
-        cout << endl;
-        return odq;
-    }
+
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         deque<int> dq;
         vector<int> res;
@@ -26,10 +17,6 @@ public:
                 }
             } else {
                 res.push_back(dq.back());
-                if (dq.back() == 0){
-                    cout << dq.size() << endl;
-                    cout << dq.front() << endl;
-                }
                 if (dq.back() == nums[winStart]){
                     dq.pop_back();
                 }
