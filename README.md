@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -111,10 +113,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
