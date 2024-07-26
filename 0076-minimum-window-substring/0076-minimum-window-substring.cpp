@@ -13,16 +13,9 @@ public:
         }
         return true;
     }
-    void printvec(vector<int>& t){
-        for (int k: t){
-            cout << k << " ";
-        }
-        cout << endl;
-    }
     string minWindow(string s, string t) {
         vector<int> t_arr(52, 0);
         vector<int> s_arr(52, 0);
-        bool x = t_arr <= s_arr;
 
         for (char c: t){
             t_arr[convertIndex(c)]++;
