@@ -16,7 +16,6 @@ public:
         charArr[s[0] - 'A']++;
         int longestWindow = 1;
         while (ed < s.length()-1){
-            cout << s[ed] << " " << s[st] << endl;
             ed++;
             charArr[s[ed] - 'A']++;
             if (mxCount(charArr) > k){
