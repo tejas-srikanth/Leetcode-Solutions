@@ -1,72 +1,60 @@
 class Solution {
 public:
-    int getIndex(char c){
-        if (c - 'a' >= 0){
-            return c - 'a';
+    int convertIndex(char c){
+        if (c - 'A' >= 0 && c - 'A' < 26){
+            return c - 'A';
         } else {
-            return 26 + c - 'A';
+            return 26 + c - 'a';
         }
     }
-    int findMin(vector<queue<int>> vq, int n){
-        int currMin = n + 1;
-        for (queue<int> q: vq){
-            if (!q.empty() && q.front() < currMin){
-                currMin = q.front();
-            }
+    bool ge(vector<int>& s, vector<int>& t){
+        for (int i=0; i<s.size(); ++i){
+            if (s[i] < t[i]) return false;
         }
-        return currMin;
+        return true;
     }
+    void printvec(vector<int>& t){
+        for (int k: t){
+            cout << k << " ";
+        }
+        cout << endl;
+    }
+    string minWindow(string s, string t) {
+        vector<int> t_arr(52, 0);
+        vector<int> s_arr(52, 0);
+        bool x = t_arr <= s_arr;
 
-    string minWindow(string t, string s) {
-        vector<int> sL(52, -1);
-        for (char c: s){
-            if (sL[getIndex(c)] == -1){
-                sL[getIndex(c)] = 1;
-                
-            } else {
-                sL[getIndex(c)] += 1;
-            }
+        for (char c: t){
+            t_arr[convertIndex(c)]++;
         }
-        int m = s.length();
-        vector<queue<int>> vq(52);
-        int n = t.length();
-        int minIndex = n-1;
-        pair<int, int> bestIndex = {-1, n+1};
-        
-        for (int i=0; i<n; ++i){
-            char c = t[i];
-            int x = getIndex(c);
-            if (sL[x] > 0){
-                sL[x]--;
-                m--;
-                vq[x].push(i);
-                if (m == 0){
-                    int j = findMin(vq, n);
-                    minIndex = j;
-                    if (i - j < bestIndex.second - bestIndex.first){
-                        bestIndex.second = i;
-                        bestIndex.first = j;
-                    }
-                }
-            } else if (sL[x] == 0){
-                int a = vq[x].front();
-                vq[x].pop();
-                vq[x].push(i);
-                if (m == 0){
-                    if (a == minIndex){
-                        int j = findMin(vq, n);
-                        minIndex = j;
-                        if (i - j < bestIndex.second - bestIndex.first){
-                            bestIndex.second = i;
-                            bestIndex.first = j;
-                        }
-                    }
-                }
-            } 
-        }
-        if (m != 0){
+        int st = 0;
+        int ed = 0;
+        s_arr[convertIndex(s[0])]++;
+        int mws = s.length() + 1;
+        int minStart = -1;
+        if (s.length() < t.length()){
             return "";
         }
-        return t.substr(bestIndex.first, bestIndex.second - bestIndex.first + 1);
+        while (ed < s.length()){
+            if (ge(s_arr, t_arr)){
+                mws = min(ed - st + 1, mws);
+                if (mws == ed - st + 1) minStart = st;
+                s_arr[convertIndex(s[st])]--;
+                st++;
+            }
+
+            else {
+                if (ed == s.length() - 1){
+                    break;
+                }
+                ed++;
+                s_arr[convertIndex(s[ed])]++;
+            }
+        }
+        if (minStart == -1) {
+            return "";
+        } else {
+            return s.substr(minStart, mws);
+        }
     }
 };
