@@ -14,14 +14,12 @@ public:
         int winStart = 0;
         int winEnd = 0;
         for (int i=0; i<s1.length(); ++i){
-            cout << winEnd << endl;
             char c = s2[winEnd];
             s2_arr[c - 'a']++;
             winEnd++;
         }
         winEnd--;
         while (winEnd < s2.length()-1){
-            cout << winStart << " " << winEnd << endl;
             if (s1_arr == s2_arr){
                 return true;
             } else {
