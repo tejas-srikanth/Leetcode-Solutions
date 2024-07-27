@@ -10,43 +10,38 @@
  */
 class Solution {
 public:
-    ListNode* append(ListNode* list1, ListNode* list2){
-        if (!list1){
-            return list2;
-        } else {
-            list1->next = list2;
-            return list2;
-        }
-    }
-    void prtList(ListNode* list){
-        while (list){
-            cout << list->val << " ";
-            list = list->next;
-        }
-        cout << endl;
-    }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head = nullptr;
-        ListNode* curr = head;
-        while (list1 || list2){
-            if (!list1){
-                curr = append(curr, list2);
-                list2 = list2->next;
-            } else if (!list2){
-                curr = append(curr, list1);
+        if (!list1 && !list2){
+            return nullptr;
+        }
+        ListNode* newlist = new ListNode();
+        ListNode* head = newlist;
+
+        while (list1 && list2){
+            if (list1->val < list2->val){
+                newlist->val = list1->val;
+                newlist->next = new ListNode();
                 list1 = list1->next;
-            } else {
-                if (list1->val < list2->val){
-                    curr = append(curr, list1);
-                    list1 = list1->next;
-                } else {
-                    curr = append(curr, list2);
-                    list2=list2->next;
-                }
+                newlist = newlist->next;
             }
-            if (head == nullptr){
-                head = curr;
+            else {
+                newlist->val = list2->val;
+                newlist->next = new ListNode();
+                list2 = list2->next;
+                newlist = newlist->next;
             }
+        }
+
+        if (!list1 && list2){
+            newlist->val = list2->val;
+            newlist->next = list2->next;
+        }
+        else if (!list2 && list1){
+            newlist->val = list1->val;
+            newlist->next = list1->next;
+        }
+        else {
+            newlist = nullptr;
         }
         return head;
     }
