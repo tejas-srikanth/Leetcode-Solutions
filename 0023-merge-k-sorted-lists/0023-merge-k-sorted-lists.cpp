@@ -10,40 +10,35 @@
  */
 class Solution {
 public:
-    struct{
-        bool operator()(const ListNode* l, const ListNode* r){ return l->val > r->val; }
-    } customLess;
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<ListNode*> v;
-        int listCount = 0;
-        for (ListNode* list: lists){
-            if (list != nullptr){
-                v.push_back(list);
-                listCount++;
+        ListNode* theList = nullptr;
+        ListNode* head = nullptr;
+        auto comp = [](ListNode* l, ListNode* r){
+            return l->val > r->val;
+        };
+        priority_queue<ListNode*, vector<ListNode*>, decltype(comp)> theHeap(comp);
+        for (ListNode* l: lists){
+            if (l){
+                theHeap.push(l);
             }
         }
-        priority_queue minQ(v.begin(), v.end(), customLess);
-        ListNode* head = nullptr;
-        ListNode* curr = head;
-        while (listCount > 0){
-            ListNode* t = minQ.top();
-            minQ.pop();
-            if (head == nullptr){
-                head = new ListNode(t->val);
-                curr = head;
+        while (theHeap.size()){
+            ListNode* t = theHeap.top();
+            if (!head){
+                head = t;
+                theList = head;
             } else {
-                curr->next = new ListNode(t->val);
-                curr = curr->next;
+                theList->next = t;
+                theList = theList->next;
             }
-            t = t->next;
-            if (t == nullptr){
-                listCount --;
-            } else {
-                minQ.push(t);
+            theHeap.pop();
+            if (t->next){
+                theHeap.push(t->next);
             }
+        }
+        if (head){
+            theList->next = nullptr;
         }
         return head;
-
     }
 };
