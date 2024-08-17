@@ -1,113 +1,84 @@
-struct dll{
+class Node {
     public:
-        int key, val;
-        dll *prev, *next;
-        dll(int k, int v){
-            key = k;
-            val = v;
-            prev = nullptr;
-            next = nullptr;
-        }
-
+        Node(int val, int key): val(val),key(key),next(nullptr),prev(nullptr){}
+        int val;
+        int key;
+        Node* next;
+        Node* prev;
 };
-
 
 class LRUCache {
 public:
-    dll *beg, *end;
-    unordered_map<int, dll*> um;
-    int cap;
-
+    int c = 0;
+    unordered_map<int, Node*> um;
+    Node* head = nullptr;
+    Node* tail = nullptr;
     LRUCache(int capacity) {
-        beg = nullptr; end = nullptr;
-        cap = capacity;
-    }
-
-    void removeAndInsert(dll* node){
-        if (node == end){
-            return;
-        } else {
-            if (node == beg){
-                beg = beg->next;
-            }
-            end->next = node;
-
-            dll* pr = node->prev;
-            dll* ne = node->next;
-
-            node->prev = end;
-            end = node;
-            node->next = nullptr;
-
-            if (pr){
-                pr->next = ne;
-            }
-
-            if (ne){
-                ne->prev = pr;
-            }
-        }
-    }
-
-    void insert(dll* node){
-        if (!end){
-            beg = node;
-            end = node;
-        } else {
-            end->next = node;
-
-            dll* pr = node->prev;
-            dll* ne = node->next;
-
-            node->prev = end;
-            end = node;
-            end->next = nullptr;
-
-            if (pr){
-                pr->next = ne;
-            }
-
-            if (ne){
-                ne->prev = pr;
-            }
-        }
-    }
-
-    void printList(){
-        dll* n = beg;
-        while (n){
-        cout << n->key << " " << n->val << "-> ";
-        n = n->next;
-        }
-        cout << endl;
+        c = capacity;
     }
     
     int get(int key) {
-        if (um.find(key) == um.end()){
-            return -1;
+        if (um.find(key) != um.end()){
+            Node* x = um[key];
+            if (x != head && x == tail){
+                tail = tail->prev;
+                tail->next = nullptr;
+                x->prev = nullptr;
+                x->next = head;
+                head->prev = x;
+                head = x;
+            } else if (x != head) {
+                x->prev->next = x->next;
+                x->next->prev = x->prev;
+                x->next = head;
+                head->prev = x;
+                head = x;
+            }
+            return x->val;
         } else {
-            removeAndInsert(um[key]);
-            return um[key]->val;
+            return -1;
         }
     }
     
     void put(int key, int value) {
-        if (um.find(key) != um.end()){
-            um[key]->val = value;
-            removeAndInsert(um[key]);
-        } else {
-            if (um.size() == cap){
-                dll* n = new dll(key, value);
-                insert(n);
-                dll* x = beg;
-                beg = beg->next;
-                beg->prev = nullptr;
-                um.erase(x->key);
-                um[key] = n;
+        if (um.find(key) == um.end()){
+            if (!head){
+                head = new Node(value, key);
+                um[key] = head;
+                tail = head;
             } else {
-                dll* n = new dll(key, value);
-                insert(n);
-                um[key] = end;
+                Node* k = new Node(value, key);
+                um[key] = k;
+                k->next = head;
+                head->prev = k;
+                head = k;
+                if (um.size() > c){
+                    Node* k = tail;
+                    int key2 = k->key;
+                    tail = tail->prev;
+                    delete k;
+                    um.erase(key2);
+                }
+            }
+        } else {
+            Node* x = um[key];
+            if (x != head && x == tail){
+                tail = tail->prev;
+                tail->next = nullptr;
+                x->prev = nullptr;
+                x->next = head;
+                head->prev = x;
+                x->val = value;
+                head = x;
+            } else if (x != head) {
+                x->prev->next = x->next;
+                x->next->prev = x->prev;
+                x->val = value;
+                x->next = head;
+                head->prev = x;
+                head = x;
+            } else {
+                x->val = value;
             }
         }
     }
