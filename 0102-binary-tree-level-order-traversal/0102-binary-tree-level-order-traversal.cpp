@@ -15,35 +15,25 @@ public:
         if (!root){
             return {};
         }
-        queue<pair<TreeNode*, int>> q;
-        q.push({root, 0});
-        int currLevel = 0;
-        vector<vector<int>> fin;
-        vector<int> acc;
-        while (!q.empty()){
-            pair<TreeNode*, int> p = q.front();
-            q.pop();
-            TreeNode* k = p.first;
-            int lvl = p.second;
-            if (lvl == currLevel){
-                acc.push_back(k->val);
-            } else {
-                currLevel ++;
-                fin.push_back(acc);
-                acc.clear();
-                acc.push_back(k->val);
+        queue<TreeNode*> frontier;
+        frontier.push(root);
+        vector<vector<int>> res;
+        while (!frontier.empty()){
+            int sz = frontier.size();
+            vector<int> currLevel;
+            for (int i=0; i<sz; ++i){
+                TreeNode* curr = frontier.front();
+                currLevel.push_back(curr->val);
+                if (curr->left){
+                    frontier.push(curr->left);
+                }
+                if (curr->right){
+                    frontier.push(curr->right);
+                }
+                frontier.pop();
             }
-            if (k->left){
-                q.push({k->left, lvl+1});
-            } 
-
-            if (k->right){
-                q.push({k->right, lvl+1});
-            }
+            res.push_back(currLevel);
         }
-
-        fin.push_back(acc);
-        return fin;
-
+        return res;
     }
 };
