@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-    bool isHeightBalanced = true;
     pair<int, bool> isBalancedPair(TreeNode* root){
         if (!root){
             return {0, true};
