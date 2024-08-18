@@ -11,51 +11,18 @@
  */
 class Solution {
 public:
-    void heightDecorate(TreeNode* root){
+    bool isHeightBalanced = true;
+    pair<int, bool> isBalancedPair(TreeNode* root){
         if (!root){
-            return;
+            return {0, true};
         }
-        if (!root->left && !root->right){
-            root->val = 1;
-        } else {
-            int currMax = -1;
-            if (root->left){
-                heightDecorate(root->left);
-                if (root->left->val > currMax){
-                    currMax = root->left->val;
-                }
-            }
-            if (root->right){
-                heightDecorate(root->right);
-                if (root->right->val > currMax){
-                    currMax = root->right->val;
-                }
-            }
-            root->val = currMax + 1;
-            
-        }
-    }
-    bool isBalancedHelper (TreeNode* root){
-        if (!root){
-            return true;
-        } else {
-            bool checkBSubt = isBalanced(root->left) && isBalanced(root->right);
-            if (root->left){
-                if (!root->right){
-                    checkBSubt = checkBSubt && root->left->val <= 1;
-                } else {
-                    checkBSubt = checkBSubt && abs(root->left->val - root->right->val) <= 1;
-                }
-            } else {
-                if (root->right){
-                    checkBSubt = checkBSubt && root->right->val <= 1;
-                }
-            }
-            return checkBSubt;
-        }
+        pair<int, bool> pl = isBalancedPair(root->right);
+        pair<int, bool> pr = isBalancedPair(root->left);
+        bool isBalanced = (pl.second && pr.second && abs(pl.first - pr.first) <= 1);
+        int h = max(pl.first, pr.first) + 1;
+        return {h, isBalanced};
     }
     bool isBalanced(TreeNode* root) {
-        heightDecorate(root);
-        return isBalancedHelper(root);
+        return isBalancedPair(root).second;
     }
 };
