@@ -11,28 +11,16 @@
  */
 class Solution {
 public:
-    int decorateTree(TreeNode* root){
+    pair<int, int> diameterHelper(TreeNode* root){
         if (!root){
-            return -1;
+            return {-1, 0};
         } else {
-            int mxlft = decorateTree(root->left);
-            int mxright = decorateTree(root->right);
-            root->val = max(mxlft, mxright) + 1;
-            return root->val;
+            pair<int, int> pl = diameterHelper(root->left);
+            pair<int, int> pr = diameterHelper(root->right);
+            return {max(pl.first, pr.first) + 1, max({pl.second, pr.second, pl.first + pr.first + 2})};
         }
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        decorateTree(root);
-        if (!root){
-            return 0;
-        } else {
-            int d1 = diameterOfBinaryTree(root->left);
-            int d2 = diameterOfBinaryTree(root->right);
-            if (root->left && root->right){
-                return max({root->left->val + root->right->val + 2, d1, d2});
-            } else {
-                return max({root->val, d1, d2});
-            }
-        }
+        return diameterHelper(root).second;
     }
 };
