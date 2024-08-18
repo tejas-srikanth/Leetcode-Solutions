@@ -14,12 +14,12 @@ public:
     TreeNode* invertTree(TreeNode* root) {
         if (!root){
             return nullptr;
+        } else {
+            TreeNode* left = invertTree(root->left);
+            TreeNode* right = invertTree(root->right);
+            root->left = right;
+            root->right = left;
+            return root;
         }
-        TreeNode* tmp = root->right;
-        root->right = root->left;
-        root->left = tmp;
-        root->left = invertTree(root->left);
-        root->right = invertTree(root->right);
-        return root;
     }
 };
