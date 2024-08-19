@@ -13,8 +13,6 @@ class Solution:
         else:
             inorder_partition = 0
             for i in range(len(inorder)):
-                if len(preorder) == 0:
-                    print("HI")
                 if inorder[i] == preorder[0]:
                     inorder_partition = i
                     break
@@ -32,6 +30,6 @@ class Solution:
                     t.left = self.buildTree(preorder[1:inorder_partition+1], inorder[:inorder_partition])
                     t.right = self.buildTree(preorder[inorder_partition+1:], inorder[inorder_partition+1:])
                     return t
-            return TreeNode(val=15000)
+            return None
 
         
