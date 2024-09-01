@@ -1,35 +1,30 @@
 class Solution {
 public:
-    bool isPalindrome(string s){
-        int st = 0;
-        int ed = s.length() - 1;
-        while (st <= ed){
-            if (s[st] != s[ed]){
-                return false;
+    vector<vector<string>> partition(string s) {
+        vector<vector<string>> result;
+        vector<string> currentList;
+        dfs(result, s, 0, currentList);
+        return result;
+    }
+
+    void dfs(vector<vector<string>> &result, string &s, int start,
+             vector<string> &currentList) {
+        if (start >= s.length()) result.push_back(currentList);
+        for (int end = start; end < s.length(); end++) {
+            if (isPalindrome(s, start, end)) {
+                // add current substring in the currentList
+                currentList.push_back(s.substr(start, end - start + 1));
+                dfs(result, s, end + 1, currentList);
+                // backtrack and remove the current substring from currentList
+                currentList.pop_back();
             }
-            st++;
-            ed--;
+        }
+    }
+
+    bool isPalindrome(string &s, int low, int high) {
+        while (low < high) {
+            if (s[low++] != s[high--]) return false;
         }
         return true;
-    }
-    vector<vector<string>> partition(string s) {
-        string acc = "";
-        if (s.length() == 1){
-            return {{s}};
-        } else if (s.length() == 0){
-            return {{}};
-        }
-        vector<vector<string>> res;
-        for (int i=s.length() - 1; i>= 0; --i){
-            acc += s[i];
-            if (isPalindrome(acc)){
-                vector<vector<string>> all = partition(s.substr(0, i));
-                for (vector<string> x: all){
-                    x.push_back(acc);
-                    res.push_back(x);
-                }
-            }
-        }
-        return res;
     }
 };
