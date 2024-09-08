@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -254,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
