@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Stack
 |  |
 | ------- |
@@ -296,4 +298,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
