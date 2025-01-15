@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2509-minimize-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Doubly-Linked List
 |  |
@@ -284,4 +285,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2509-minimize-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
