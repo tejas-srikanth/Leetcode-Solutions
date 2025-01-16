@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2509-minimize-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Doubly-Linked List
 |  |
@@ -306,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
