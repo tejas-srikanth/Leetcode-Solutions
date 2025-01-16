@@ -1,6 +1,5 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
-        theString = ""
         d = {1: "I", 5: "V", 10: "X", 50: "L", 100: "C", 500: "D", 1000: "M"}
         subtractiveFour = {1: "IV", 2: "XL", 3: "CD"}
         subtractiveNine = {1: "IX", 2: "XC", 3: "CM"}
