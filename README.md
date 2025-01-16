@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
