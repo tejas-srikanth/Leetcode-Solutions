@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2509-minimize-xor) |
