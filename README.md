@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 ## String
 |  |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Graph
 |  |
 | ------- |
