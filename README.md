@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
