@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Stack
 |  |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
