@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
