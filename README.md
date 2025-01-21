@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Stack
 |  |
@@ -343,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
