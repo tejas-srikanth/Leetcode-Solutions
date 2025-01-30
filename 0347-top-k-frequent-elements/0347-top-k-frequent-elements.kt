@@ -11,14 +11,9 @@ class Solution {
                 pq.add(Pair(value, key))
             } else {
                 val (lastval, lastkey) = pq.poll()
-                println(lastval.toString())
-                println(lastkey.toString())
-                println(value)
-                println(key)
                 if (lastval < value){
                     pq.add(Pair(value, key))
                 } else {
-                    println("HII")
                     pq.add(Pair(lastval, lastkey))
                 }
 
