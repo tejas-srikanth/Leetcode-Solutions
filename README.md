@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0090-subsets-ii) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -419,5 +421,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0348-design-tic-tac-toe) |
 <!---LeetCode Topics End-->
