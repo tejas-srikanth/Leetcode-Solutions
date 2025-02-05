@@ -13,7 +13,6 @@ public:
         }
         while (winEnd < nums.size() + 1){
             int currWindowSum = prefArray[winEnd] - prefArray[winStart];
-            cout << winStart << " " << winEnd << endl;
             if (currWindowSum < target){
                 winEnd++;
             } else {
