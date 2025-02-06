@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
+| [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
