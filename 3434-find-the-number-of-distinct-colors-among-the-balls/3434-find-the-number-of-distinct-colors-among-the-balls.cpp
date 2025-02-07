@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-        map<int, int> ballColor;
-        map<int, int> colFreq;
+        unordered_map<int, int> ballColor;
+        unordered_map<int, int> colFreq;
         vector<int> res;
         for (vector<int> query: queries){
             if (ballColor.find(query[0]) == ballColor.end()){
