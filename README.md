@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
