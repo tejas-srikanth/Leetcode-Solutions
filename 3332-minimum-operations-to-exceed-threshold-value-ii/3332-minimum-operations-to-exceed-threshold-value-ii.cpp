@@ -8,7 +8,6 @@ public:
             long a = numQueue.top();
             numQueue.pop();
             long b = numQueue.top();
-            cout << a << " " << b << endl;
             numQueue.pop();
             if (a >= k){
                 break;
