@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [1372-check-if-it-is-a-good-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
