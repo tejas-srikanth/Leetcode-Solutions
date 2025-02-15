@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1396-count-servers-that-communicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1876-map-of-highest-peak](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0348-design-tic-tac-toe](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [1372-check-if-it-is-a-good-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -450,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 ## Union Find
 |  |
@@ -477,4 +481,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
