@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
