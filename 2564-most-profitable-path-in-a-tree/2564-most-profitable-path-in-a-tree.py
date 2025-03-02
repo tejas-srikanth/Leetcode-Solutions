@@ -31,7 +31,6 @@ class Solution:
             a += 1
         if a == b:
             amount[recStack[b]] //= 2
-        print(totalBobRewards)
         q = deque()
         visited = [False for i in range(n)]
         q.append((0, amount[0]))
