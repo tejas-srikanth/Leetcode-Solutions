@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-alternating-groups-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
