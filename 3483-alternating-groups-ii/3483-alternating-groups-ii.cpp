@@ -12,7 +12,6 @@ public:
         }
         int numberSeqs = 0;
         for (int i=0; i<colors.size(); ++i){
-            cout << i << " " << numAlternating << endl;
             if (numAlternating == k){
                 numberSeqs++;
             }
