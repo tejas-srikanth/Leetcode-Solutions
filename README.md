@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2690-house-robber-iv](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 ## Sliding Window
 |  |
 | ------- |
