@@ -10,7 +10,6 @@ class Solution:
         intStack.append([days + 1, float("inf")])
         currStart = 0
         numDays = 0
-        print(intStack)
         for i in range(len(intStack)):
             intvl = intStack[i]
             numDays += max(intvl[0] - currStart - 1, 0)
