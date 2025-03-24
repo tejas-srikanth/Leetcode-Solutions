@@ -7,7 +7,7 @@ class Solution:
 
     def repairCars(self, ranks: List[int], cars: int) -> int:
         lo = 0
-        hi = cars**2 * sum(ranks)
+        hi = cars**2 * min(ranks)
         while lo < hi:
             mid = (lo + hi) // 2
             if (self.maxCars(ranks, mid) >= cars):
