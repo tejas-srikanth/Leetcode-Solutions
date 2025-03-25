@@ -45,7 +45,6 @@ class Solution:
         for edge in edges:
             dis.unite(edge[0], edge[1], edge[2])
         ans = []
-        print(dis.totalWeight)
         for q in query:
             ans.append(dis.getWeight(q[0], q[1]))
         return ans
