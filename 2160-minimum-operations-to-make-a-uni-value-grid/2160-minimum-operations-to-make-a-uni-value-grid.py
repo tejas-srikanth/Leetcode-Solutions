@@ -6,9 +6,10 @@ class Solution:
             return 0
         med = flattened[(len(flattened)) // 2]
         numOps = 0
-        for elt in flattened:
-            if elt % x != med % x:
-                return -1
-            else:
-                numOps += abs(elt - med) // x
+        for i in range(len(grid)):
+            for j in range(len(grid[i])):
+                if grid[i][j] % x != med % x:
+                    return -1
+                else:
+                    numOps += abs(grid[i][j] - med) // x
         return numOps
