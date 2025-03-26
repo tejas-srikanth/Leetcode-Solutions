@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Bucket Sort
 |  |
 | ------- |
