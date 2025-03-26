@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0296-best-meeting-point](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
