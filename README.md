@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -503,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Brainteaser
 |  |
