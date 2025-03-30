@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1170-shortest-common-supersequence](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Queue
 |  |
@@ -500,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2509-minimize-xor) |
