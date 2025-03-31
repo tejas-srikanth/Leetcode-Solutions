@@ -25,7 +25,6 @@ class Solution:
             cnt += 1
             if cnt < 0:
                 heappush(h, (cnt, char))
-            print(newS)
 
         if len(s) != len(newS):
             return ""
