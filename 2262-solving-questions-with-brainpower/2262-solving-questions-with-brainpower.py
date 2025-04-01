@@ -9,6 +9,5 @@ class Solution:
                 dp[i] = max(p, dp[i + 1])
             else:
                 dp[i] = max(p + dp[i + b + 1], dp[i + 1])
-        print(dp)
         return dp[0]
         
