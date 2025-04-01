@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3451-string-compression-iii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
