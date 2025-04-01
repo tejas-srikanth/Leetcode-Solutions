@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [2065-check-for-contradictions-in-equations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2065-check-for-contradictions-in-equations) |
 | [2145-grid-game](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2065-check-for-contradictions-in-equations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2065-check-for-contradictions-in-equations) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2065-check-for-contradictions-in-equations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2065-check-for-contradictions-in-equations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -566,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2065-check-for-contradictions-in-equations](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2065-check-for-contradictions-in-equations) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
