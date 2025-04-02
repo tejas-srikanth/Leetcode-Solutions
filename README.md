@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
