@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2413-smallest-number-in-infinite-set](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-employee-free-time](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0761-employee-free-time) |
 | [0778-reorganize-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [2413-smallest-number-in-infinite-set](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2413-smallest-number-in-infinite-set](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
