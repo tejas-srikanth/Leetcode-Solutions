@@ -27,6 +27,8 @@ class Solution:
                 parent.left = prev.right
                 return root
         else:
-            root.right = self.deleteNode(root.right, key)
-            root.left = self.deleteNode(root.left, key)
+            if key > root.val:
+                root.right = self.deleteNode(root.right, key)
+            else:
+                root.left = self.deleteNode(root.left, key)
             return root
