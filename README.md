@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-employee-free-time](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0761-employee-free-time) |
 | [0854-making-a-large-island](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0952-word-subsets](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0296-best-meeting-point](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0343-integer-break) |
+| [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1372-check-if-it-is-a-good-array](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -585,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
@@ -640,4 +644,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
