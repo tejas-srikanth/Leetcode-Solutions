@@ -23,7 +23,6 @@ class Solution:
             else:
                 currString += s[i]
         currStack = []
-        print(tokenized)
         for i in range(len(tokenized)):
             if isinstance(tokenized[i], str) and tokenized[i] not in ["[", "]"]:
                 currStack.append(tokenized[i])
