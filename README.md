@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1488-sort-integers-by-the-power-value](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1499-maximum-performance-of-a-team](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2636-maximum-subsequence-score) |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -378,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Queue
 |  |
