@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/tejas-srikanth/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
